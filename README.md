@@ -9,7 +9,22 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 # Fonte de Tensão
 ## Vídeo de Demonstração
 ## Componentes Utilizados
-tabela com os componentes, medidas e preços
+Componentes utilizados e seus valores:
+|  Quantidade   |  Componente   | Preço |
+|:-------------:|:-------------:|:-----:|
+| 1     | Capacitor 470uF x 50V | R$1,50|
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |
+
 explicar os componentes tambem
 ## Circuito no falstad
 circuito no falstad
