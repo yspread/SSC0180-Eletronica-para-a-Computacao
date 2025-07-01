@@ -6,27 +6,27 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
  - Matheus Rodrigues de Oliveira (matheusrodrigues2006@usp.br)
  - Eduardo de Moura Rocha (rochaeduardo@usp.br)
 
-## Fonte de Tensão
-### Vídeo de Demonstração
-### Componentes Utilizados
+# Fonte de Tensão
+## Vídeo de Demonstração
+## Componentes Utilizados
 tabela com os componentes, medidas e preços
 explicar os componentes tambem
-### Circuito no falstad
+## Circuito no falstad
 circuito no falstad
-### Esquemático e PCB no Eagle
+## Esquemático e PCB no Eagle
 esquematico e pcb no eagle
-### Cálculos Relevantes
+## Cálculos Relevantes
 calculos relevantes
-### Galeria
+## Galeria
 fotos do projeto
 
 
-## Arduíno
-### Vídeo de Demonstração
+# Arduíno
+## Vídeo de Demonstração
 link para vídeo no youtube
-### Software
+## Software
 código do programa do arduino
-### Circuito
+## Circuito
 circuito do arduino com as conexoes dos perifericos
-### Galeria
+## Galeria
 fotos do projeto
