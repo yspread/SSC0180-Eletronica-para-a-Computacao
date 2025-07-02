@@ -16,8 +16,8 @@ Componentes utilizados e seus valores:
 | 1     | Ponte retificadora 2A | R$3,90|
 | 1     | LED Vermelho          | R$0,50|
 | 1  | Diodo Zener 1N4743 13V/1W| R$0,50|
-| 1    | Potenciômetro 10kΩ     | R$7,00|
-| 1 | Transistor 60V 0,8A       |R$12,50|
+| 1  | Potenciômetro 10kΩ Linear| R$7,00|
+| 1 | Transistor NPN 2N2222       |R$12,50|
 | 3 | Resistores 1kΩ 1/4W       | R$0,21|
 | 1 | Resistor 100Ω 2W          | R$0,40|
 | 8 | Jumpers Macho x Macho     | R$7,00|
@@ -26,7 +26,8 @@ Componentes utilizados e seus valores:
 
 explicar os componentes tambem
 ## Circuito no falstad
-circuito no falstad
+![image](https://github.com/user-attachments/assets/4b54dc7d-d14b-4500-8df6-fff34c6bd20b)
+Link para o circuito: https://tinyurl.com/263qmako
 ## Esquemático e PCB no Eagle
 esquematico e pcb no eagle
 ## Cálculos Relevantes
