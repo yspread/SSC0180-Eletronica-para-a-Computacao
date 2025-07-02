@@ -1,5 +1,5 @@
 # Projetos de Eletrônica
-Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado em Ciências da Computação no ICMC - USP
+Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado em Ciências da Computação no ICMC - USP com o professor Eduardo do Valle Simões
 ### Integrantes do grupo
  - Rafael Pavon Diesner (rafaeldiesner@usp.br)
  - Ícaro Ramos Caye (icarocaye@usp.br)
