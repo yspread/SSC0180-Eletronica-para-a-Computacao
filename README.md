@@ -1,4 +1,4 @@
-# SSC0180-Eletrônica-para-a-Computação
+# Projetos de Eletrônica
 Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado em Ciências da Computação no ICMC - USP
 ### Integrantes do grupo
  - Rafael Pavon Diesner (rafaeldiesner@usp.br)
