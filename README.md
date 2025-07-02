@@ -21,7 +21,8 @@ Componentes utilizados e seus valores:
 | 3 | Resistores 1kΩ 1/4W       | R$0,21|
 | 1 | Resistor 100Ω 2W          | R$0,40|
 | 8 | Jumpers Macho x Macho     | R$7,00|
-| Valor Total                   |R$33,51|
+| 1 | Protoboard                |R$20,99|
+| 18| Total                     |R$54,50|
 
 explicar os componentes tambem
 ## Circuito no falstad
