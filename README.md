@@ -58,6 +58,7 @@ link para vídeo no youtube
 ## Software
 código do programa do arduino
 ## Circuito
-circuito do arduino com as conexoes dos perifericos
+![Imagem do WhatsApp de 2025-07-03 à(s) 19 35 09_74abac08](https://github.com/user-attachments/assets/79cc5b68-8a96-4dc8-86d2-2ab58cdf7c06)
+
 ## Galeria
 fotos do projeto
