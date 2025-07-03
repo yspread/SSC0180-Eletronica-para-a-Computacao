@@ -27,13 +27,13 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 | 21| Total                     |R$54,50|
 
 ### Explicação dos componentes:
-- Transfomador:
+- Transfomador: Reduz a tensão da rede elétrica (127V) para uma tensão mais baixa adequada ao circuito.
 - Resistores: Elem limitam a corrente que passa pelo circuito, evitando que ela ultrapasse as especificações dos componentes, causando danos a eles.
-- Ponte de diodos:
-- Diodo Zener:
-- Potenciômetro:
-- Transistor:
-- Capacitor:
+- Ponte de diodos: Converte a corrente alternada (AC) em corrente contínua (DC) por retificação.
+- Diodo Zener: Estabiliza a tensão em 13V, protegendo contra sobretensão.
+- Potenciômetro: Permite ajustar a tensão e a corrente em uma parte do circuito.
+- Transistor: Atua como chave ou amplificador, controlando a corrente para a carga.
+- Capacitor: Filtra a tensão retificada, suavizando ondulações.
   
 ## Circuito no falstad
 ![image](https://github.com/user-attachments/assets/178c67b1-cf79-4883-93fa-f8777230b29f)
