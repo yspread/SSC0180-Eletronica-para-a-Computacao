@@ -38,8 +38,13 @@ Explicação dos componentes:
 ## Circuito no falstad
 ![image](https://github.com/user-attachments/assets/178c67b1-cf79-4883-93fa-f8777230b29f)
 Link para o circuito: https://tinyurl.com/25uthsoa
+
 ## Esquemático e PCB no Eagle
-esquematico e pcb no eagle
+Esquemático da PCB:
+![Imagem do WhatsApp de 2025-07-03 à(s) 15 36 46_3866921a](https://github.com/user-attachments/assets/71c9bfca-df55-417a-80b3-2e83a2600036)
+PCB no Eagle
+![Imagem do WhatsApp de 2025-07-03 à(s) 15 37 50_06788e0c](https://github.com/user-attachments/assets/a181a15c-2e8f-425c-8630-2ab702976fdf)
+
 ## Cálculos Relevantes
 calculos relevantes
 ## Galeria
