@@ -8,6 +8,7 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 
 # Fonte de Tensão
 ## Vídeo de Demonstração
+
 ## Componentes Utilizados
 Componentes utilizados e seus valores:
 |  Quantidade   |  Componente   | Preço |
@@ -25,7 +26,15 @@ Componentes utilizados e seus valores:
 | 1 | Protoboard                |R$20,99|
 | 21| Total                     |R$54,50|
 
-explicar os componentes tambem
+Explicação dos componentes:
+- Transfomador:
+- Resistores: Elem limitam a corrente que passa pelo circuito, evitando que ela ultrapasse as especificações dos componentes, causando danos a eles.
+- Ponte de diodos:
+- Diodo Zener:
+- Potenciômetro:
+- Transistor:
+- Capacitor:
+  
 ## Circuito no falstad
 ![image](https://github.com/user-attachments/assets/178c67b1-cf79-4883-93fa-f8777230b29f)
 Link para o circuito: https://tinyurl.com/25uthsoa
