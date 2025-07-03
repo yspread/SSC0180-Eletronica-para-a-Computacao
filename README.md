@@ -10,7 +10,7 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 ## Vídeo de Demonstração
 
 ## Componentes Utilizados
-Componentes utilizados e seus valores:
+### Componentes utilizados e seus valores:
 |  Quantidade   |  Componente   | Preço |
 |:-------------:|:-------------:|:-----:|
 | 1     | Capacitor 470uF x 50V | R$1,50|
@@ -26,7 +26,7 @@ Componentes utilizados e seus valores:
 | 1 | Protoboard                |R$20,99|
 | 21| Total                     |R$54,50|
 
-Explicação dos componentes:
+### Explicação dos componentes:
 - Transfomador:
 - Resistores: Elem limitam a corrente que passa pelo circuito, evitando que ela ultrapasse as especificações dos componentes, causando danos a eles.
 - Ponte de diodos:
@@ -37,12 +37,13 @@ Explicação dos componentes:
   
 ## Circuito no falstad
 ![image](https://github.com/user-attachments/assets/178c67b1-cf79-4883-93fa-f8777230b29f)
-Link para o circuito: https://tinyurl.com/25uthsoa
+### Link para o circuito: 
+https://tinyurl.com/25uthsoa
 
 ## Esquemático e PCB no Eagle
-Esquemático da PCB:
+### Esquemático da PCB:
 ![Imagem do WhatsApp de 2025-07-03 à(s) 15 36 46_3866921a](https://github.com/user-attachments/assets/71c9bfca-df55-417a-80b3-2e83a2600036)
-PCB no Eagle
+### PCB no Eagle
 ![Imagem do WhatsApp de 2025-07-03 à(s) 15 37 50_06788e0c](https://github.com/user-attachments/assets/a181a15c-2e8f-425c-8630-2ab702976fdf)
 
 ## Cálculos Relevantes
