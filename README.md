@@ -27,6 +27,8 @@ Componentes utilizados e seus valores:
 
 explicar os componentes tambem
 ## Circuito no falstad
+![image](https://github.com/user-attachments/assets/178c67b1-cf79-4883-93fa-f8777230b29f)
+Link para o circuito: https://tinyurl.com/25uthsoa
 ## Esquemático e PCB no Eagle
 esquematico e pcb no eagle
 ## Cálculos Relevantes
