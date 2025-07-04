@@ -56,7 +56,12 @@ fotos do projeto
 ## Vídeo de Demonstração
 link para vídeo no youtube
 ## Software
-código do programa do arduino
+### Programa do arduíno:
+![Imagem do WhatsApp de 2025-07-03 à(s) 21 04 05_71b5a93e](https://github.com/user-attachments/assets/8f688c58-8aa7-4d74-bc91-af7e281880cb)
+### Script em Python
+Como o arduíno nao possui integração direta com o teclado, foi necessário desenvolver um código para que o sinal entregue pelo arduíno seja dividido em intervalos e que os intervalos se conectem com as teclas do teclado.
+![Imagem do WhatsApp de 2025-07-03 à(s) 21 10 48_15256d12](https://github.com/user-attachments/assets/a45d54eb-2532-4b74-bec1-245794ee55c4)
+
 ## Circuito
 ![Imagem do WhatsApp de 2025-07-03 à(s) 19 35 09_74abac08](https://github.com/user-attachments/assets/79cc5b68-8a96-4dc8-86d2-2ab58cdf7c06)
 
