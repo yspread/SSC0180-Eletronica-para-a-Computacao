@@ -50,7 +50,11 @@ https://tinyurl.com/25uthsoa
 ![Imagem do WhatsApp de 2025-07-04 à(s) 13 18 26_0318065c](https://github.com/user-attachments/assets/8fc3fce2-aa42-4df1-a1b0-21f7478412d7)
 
 ## Galeria
-fotos do projeto
+Foto do circuito:
+
+![Imagem do WhatsApp de 2025-07-04 à(s) 16 11 20_0b038e9e](https://github.com/user-attachments/assets/b389047d-a9a5-434d-a02f-b6cbc56c20aa)
+
+
 
 
 # Arduíno
