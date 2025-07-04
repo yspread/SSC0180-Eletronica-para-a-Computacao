@@ -9,6 +9,7 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 # Fonte de Tensão
 ## Vídeo de Demonstração
 https://youtu.be/90cwdmJ1gNY
+
 Obs : Ao testar o circuito, percebemos que o Zener nao alcançava 13V, provavelmente devido a oxidação prévia ou excesso de corrente em algum momento, o que fez com que a tensão máxima caísse levemente e nao alcançasse 12V. Para corrigir isso, adicionamos um resistor em paralelo acima do Zener para que a resistência equivalente ficasse 500Ω. Se não fosse o problema no Zener, esse resistor seria desnecessário, então ele só foi adicionado na hora do teste físico.
 
 ## Componentes Utilizados
