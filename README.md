@@ -50,8 +50,6 @@ https://tinyurl.com/25uthsoa
 ![Imagem do WhatsApp de 2025-07-04 à(s) 13 18 26_0318065c](https://github.com/user-attachments/assets/8fc3fce2-aa42-4df1-a1b0-21f7478412d7)
 
 ## Galeria
-Foto do circuito:
-
 ![Imagem do WhatsApp de 2025-07-04 à(s) 16 11 20_0b038e9e](https://github.com/user-attachments/assets/b389047d-a9a5-434d-a02f-b6cbc56c20aa)
 
 
@@ -61,15 +59,18 @@ Foto do circuito:
 ## Vídeo de Demonstração
 link para vídeo no youtube
 ## Software
-### Programa do arduíno:
+Programa do arduíno:
+
 ![Imagem do WhatsApp de 2025-07-03 à(s) 21 04 05_71b5a93e](https://github.com/user-attachments/assets/8f688c58-8aa7-4d74-bc91-af7e281880cb)
 
-### Script em Python
+Script em Python:
 Como o arduíno nao possui integração direta com o teclado, foi necessário desenvolver um código para que o sinal entregue pelo arduíno seja dividido em intervalos e que os intervalos se conectem com as teclas do teclado.
+
 ![image](https://github.com/user-attachments/assets/e3ffac04-b98e-4012-8d26-09e552d4d2b2)
 
 ## Circuito
 ![Imagem do WhatsApp de 2025-07-03 à(s) 19 35 09_74abac08](https://github.com/user-attachments/assets/79cc5b68-8a96-4dc8-86d2-2ab58cdf7c06)
 
 ## Galeria
-fotos do projeto
+![Imagem do WhatsApp de 2025-07-04 à(s) 16 25 27_82b73f0b](https://github.com/user-attachments/assets/69ef4b30-929d-4571-8ded-79c07deb3c00)
+
