@@ -8,6 +8,8 @@ Projetos para Disciplina de Eletrônica para a computação do curso Bacharelado
 
 # Fonte de Tensão
 ## Vídeo de Demonstração
+https://youtu.be/90cwdmJ1gNY
+Obs : Ao testar o circuito, percebemos que o Zener nao alcançava 13V, provavelmente devido a oxidação prévia ou excesso de corrente em algum momento, o que fez com que a tensão máxima caísse levemente e nao alcançasse 12V. Para corrigir isso, adicionamos um resistor em paralelo acima do Zener para que a resistência equivalente ficasse 500Ω. Se não fosse o problema no Zener, esse resistor seria desnecessário, então ele só foi adicionado na hora do teste físico.
 
 ## Componentes Utilizados
 ### Componentes utilizados e seus valores:
@@ -51,9 +53,6 @@ https://tinyurl.com/25uthsoa
 
 ## Galeria
 ![Imagem do WhatsApp de 2025-07-04 à(s) 16 11 20_0b038e9e](https://github.com/user-attachments/assets/b389047d-a9a5-434d-a02f-b6cbc56c20aa)
-
-
-
 
 # Arduíno
 ## Vídeo de Demonstração
