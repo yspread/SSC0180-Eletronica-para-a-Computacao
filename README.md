@@ -57,7 +57,8 @@ https://tinyurl.com/25uthsoa
 
 # Arduíno
 ## Vídeo de Demonstração
-link para vídeo no youtube
+![https://youtu.be/22Z_oDhv8mw](https://youtu.be/22Z_oDhv8mw)
+
 ## Software
 ### Programa do arduíno:
 ![Imagem do WhatsApp de 2025-07-03 à(s) 21 04 05_71b5a93e](https://github.com/user-attachments/assets/8f688c58-8aa7-4d74-bc91-af7e281880cb)
