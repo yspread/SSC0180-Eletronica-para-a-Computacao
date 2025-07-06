@@ -57,7 +57,7 @@ https://tinyurl.com/25uthsoa
 
 # Arduíno
 ## Vídeo de Demonstração
-![https://youtu.be/22Z_oDhv8mw](https://youtu.be/22Z_oDhv8mw)
+https://youtu.be/22Z_oDhv8mw
 
 ## Software
 ### Programa do arduíno:
